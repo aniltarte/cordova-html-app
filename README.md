@@ -1,4 +1,4 @@
 cordova-html-app
 ================
 
-Scratch pad for html app for native devices using Apache Cordova tool.
+A scratch pad for html app for native devices using Apache Cordova tool.
